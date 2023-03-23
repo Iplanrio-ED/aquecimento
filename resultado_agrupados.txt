@@ -1,16 +1,16 @@
  Segue o agrupamento
                                                location.street.number    dob.age  registered.age
 location.country location.state                                                                 
-Australia        Australian Capital Territory             8028.000000  45.000000        1.000000
-                 New South Wales                          5543.000000  50.000000       14.833333
-                 Northern Territory                       3387.000000  52.333333        7.666667
-                 Queensland                               5251.333333  35.777778        9.333333
-                 South Australia                          5551.333333  57.333333       10.000000
+Australia        Australian Capital Territory             7442.500000  53.750000        9.250000
+                 New South Wales                          7166.833333  52.500000       12.000000
+                 Northern Territory                       5126.166667  53.166667        8.000000
+                 Queensland                               2955.000000  51.500000        4.500000
+                 South Australia                          3442.000000  67.666667       10.666667
 ...                                                               ...        ...             ...
-United States    Tennessee                                7306.000000  63.000000        8.000000
-                 Texas                                    8016.500000  42.500000        8.500000
-                 Virginia                                 9194.000000  27.000000        5.000000
-                 Washington                                418.000000  27.000000       18.000000
-                 Wyoming                                  2492.000000  36.000000       17.000000
+United States    Utah                                     4051.000000  45.000000       11.500000
+                 Vermont                                  2598.500000  43.500000       12.000000
+                 Washington                               9335.000000  74.000000       15.000000
+                 West Virginia                            2695.333333  41.666667        5.333333
+                 Wyoming                                  3751.000000  49.000000       19.000000
 
-[339 rows x 3 columns]
+[334 rows x 3 columns]
