@@ -1,0 +1,26 @@
+ Segue o relatório
+    Porcentagem masculina: 52.0 %
+    Porcentagem feminina: 48.0 %
+    Porcentagem por país (%):
+Denmark           5.833333
+Australia         5.500000
+United States     5.500000
+Iran              5.333333
+Canada            5.333333
+United Kingdom    5.333333
+Finland           5.333333
+Spain             5.166667
+Norway            5.000000
+Serbia            5.000000
+Ireland           5.000000
+Germany           4.833333
+Netherlands       4.666667
+New Zealand       4.500000
+France            4.500000
+Brazil            4.500000
+India             4.166667
+Mexico            4.000000
+Switzerland       3.833333
+Turkey            3.666667
+Ukraine           3.000000
+Name: location.country, dtype: float64

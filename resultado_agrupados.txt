@@ -1,0 +1,16 @@
+ Segue o agrupamento
+                                               location.street.number    dob.age  registered.age
+location.country location.state                                                                 
+Australia        Australian Capital Territory             8028.000000  45.000000        1.000000
+                 New South Wales                          5543.000000  50.000000       14.833333
+                 Northern Territory                       3387.000000  52.333333        7.666667
+                 Queensland                               5251.333333  35.777778        9.333333
+                 South Australia                          5551.333333  57.333333       10.000000
+...                                                               ...        ...             ...
+United States    Tennessee                                7306.000000  63.000000        8.000000
+                 Texas                                    8016.500000  42.500000        8.500000
+                 Virginia                                 9194.000000  27.000000        5.000000
+                 Washington                                418.000000  27.000000       18.000000
+                 Wyoming                                  2492.000000  36.000000       17.000000
+
+[339 rows x 3 columns]
